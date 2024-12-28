@@ -68,5 +68,6 @@ We welcome contributions to improve ThinkFast! Follow these steps to get started
 
 2. **Clone Your Fork:**
    ```bash
-   git clone https://github.com/your-username/thinkfast.git
->>>>>>> 61fa17735b859b4b9066ff38dbf83f4920e6ae9e
+   https://github.com/MohsenBahaj/ThinkFast.git
+   
+
